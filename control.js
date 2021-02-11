@@ -175,7 +175,7 @@ jQuery(document).on('submit','#form_po',()=>{
 
             jQuery.alert({
                 title: 'Falha',
-                content: 'Ocorreu um erro ao tentar adicionar',
+                content: 'teste',
                 type: 'red',
                 buttons: {
                     fechar: {
